@@ -1,4 +1,4 @@
-![Header](https://github.com/SashaTemchur/sashatemchur/blob/main/assets/header.gif)
+[![Header](https://github.com/SashaTemchur/sashatemchur/blob/main/assets/sasha_logo.png)]()
 
 About me 
 
