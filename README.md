@@ -19,8 +19,8 @@
 
 
 # Follow Me 
-![instagram](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram&logoColor=b406BE&link=ttps://www.instagram.com/_s_a_s__h_a_13)
-![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=blue&link=https://m.facebook.com/alex.temchur?eav=AfbLoTMKEXhU2oumECwGsGJctweVMeW-d7wf4jEywqCn8kwdM5fhLRxgVMN7QZtGdPc&paipv=0)
-![twitter](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter&logoColor=blue&link=https://twitter.com/STemcur)
-![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6&link=https://www.linkedin.com/in/sasha-temchur-36890924b/)
+[![instagram](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram&logoColor=b406BE)](https://www.instagram.com/_s_a_s__h_a_13)
+[![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=blue)](https://m.facebook.com/alex.temchur?eav=AfbLoTMKEXhU2oumECwGsGJctweVMeW-d7wf4jEywqCn8kwdM5fhLRxgVMN7QZtGdPc&paipv=0)
+[![twitter](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/STemcur)
+[![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/sasha-temchur-36890924b/)
 
