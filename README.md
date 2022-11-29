@@ -11,7 +11,7 @@
 [![python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=500ea1)](https://www.instagram.com/_s_a_s__h_a_13_)
 [![sqlite3](https://img.shields.io/badge/-sqlite3-090909?style=for-the-badge&logo=sqlite&logoColor=yellow)](https://www.instagram.com/_s_a_s__h_a_13_)
 [![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql&logoColor=white)](https://www.instagram.com/_s_a_s__h_a_13_)
-[![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=c%2B%2B&logoColor=blue)](https://www.instagram.com/_s_a_s__h_a_13_)
+[![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git%2B%2B&logoColor=blue)](https://www.instagram.com/_s_a_s__h_a_13_)
 [![postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=green)](https://www.instagram.com/_s_a_s__h_a_13_)
 [![vim](https://img.shields.io/badge/-vim-black?style=for-the-badge&logo=vim&logoColor=green)](https://www.instagram.com/_s_a_s__h_a_13_)
 [![linux](https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://www.instagram.com/_s_a_s__h_a_13_)
