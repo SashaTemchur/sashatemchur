@@ -18,7 +18,7 @@
 
 
 # Follow Me 
-[![instagram](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram&logoColor=b406BE)](https://www.instagram.com/_s_a_s__h_a_13__)
+[![instagram](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram&logoColor=b406BE)](https://www.instagram.com/sasha_temchur)
 [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=blue)](https://m.facebookcomalextemchureav=AfbLoTMKEXhU2oumECwGsGJctweVMeW-d7wf4jEywqCn8kwdM5fhLRxgVMN7QZtGdPc&paipv=0)
 [![twitter](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/STemcur)
 [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/sasha-temchur-36890924b/)
